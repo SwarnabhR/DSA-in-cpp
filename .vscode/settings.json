@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "git.autorefresh": false,
+    "git.enableStatusBarSync": false,
+    "git.suggestSmartCommit": false,
+    "git.decorations.enabled": false,
+    "git.enabled": false,
+    "cSpell.words": [
+        "Babbar",
+        "Swarnabh"
+    ]
+}
